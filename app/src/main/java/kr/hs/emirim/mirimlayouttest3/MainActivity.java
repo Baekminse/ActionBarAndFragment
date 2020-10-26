@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
     Button[] btnN = new Button[btnId.length];
     String num1, num2;
     EditText edit1, edit2;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
